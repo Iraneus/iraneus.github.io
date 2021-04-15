@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<div class="page blog-index">
-  <h1>Bloggie Blog</h1>
-  <div class="col-two blog-cols">
-    <div class="col col-aside blog-recent">
-      <h4>Recent Posts</h4>
+<div class="page offers-index">
+  <h1>Offers</h1>
+  <div class="col-two offers-cols">
+    <div class="col col-aside offers-recent">
+      <h4>Recent Offers</h4>
       {% include recent-posts.html %}
     </div>
-    <div class="col col-content blog-previews">
+    <div class="col col-content offers-previews">
       {% for post in site.posts %}
-        <div class="blog-posts">
+        <div class="offers-posts">
           <header class="post-header">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <div class="post-byline">
