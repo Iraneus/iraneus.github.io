@@ -1,0 +1,3 @@
+This is a sample MedNeed website.
+
+MedNeed is improving access to medical care in communities by providing financing solutions including offers, loans and other cost-saving programs to enable health facilities and professionals acquire the equipment and supplies they need to deliver improved and affordable medical care to more people. MedNeed is a great resource for users to turn to for information on a wide range of financial support and assistance programs for medical equipment and supplies. 
